@@ -1,0 +1,7 @@
+start_url: "http://books.toscrape.com/catalogue/category/books/philosophy_7"
+base_url: "http://books.toscrape.com/"
+product_link_selector: "#default > div > div > div > div > section > div:nth-child(2) > ol > li:nth-child(7) > article > h3 > a"
+name_selector: "#default > div > div > div > div > section > div:nth-child(2) > ol > li:nth-child(1) > article > h3 > a"
+price_selector: "#default > div > div > div > div > section > div:nth-child(2) > ol > li:nth-child(1) > article > div.product_price > p.price_color"
+description_selector: "#default > div > div > div > div > section > div:nth-child(2) > ol > li:nth-child(1) > article > h3 > a"
+image_selector: "#default > div > div > div > div > section > div:nth-child(2) > ol > li:nth-child(1) > article > div.image_container > a > img"

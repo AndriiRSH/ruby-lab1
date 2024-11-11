@@ -1,0 +1,30 @@
+---
+:name: Fake Item
+:price: 19.0
+:description: Fake description
+:category: Fake category
+:image_path: default_image.jpg
+---
+:name: Fake Item
+:price: 57.0
+:description: Fake description
+:category: Fake category
+:image_path: default_image.jpg
+---
+:name: Fake Item
+:price: 78.0
+:description: Fake description
+:category: Fake category
+:image_path: default_image.jpg
+---
+:name: Fake Item
+:price: 17.0
+:description: Fake description
+:category: Fake category
+:image_path: default_image.jpg
+---
+:name: Fake Item
+:price: 64.0
+:description: Fake description
+:category: Fake category
+:image_path: default_image.jpg

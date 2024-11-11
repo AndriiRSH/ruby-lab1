@@ -1,0 +1,5 @@
+logging:
+  directory: "logs"
+  files:
+    application_log: "application_log.log"
+  level: "DEBUG"

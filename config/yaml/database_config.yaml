@@ -1,0 +1,6 @@
+database_type: sqlite
+
+sqlite_database:
+  db_file: db/ProjectDB.sqlite
+  timeout: 5000
+  pool_size: 5

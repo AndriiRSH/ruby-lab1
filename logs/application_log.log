@@ -1,0 +1,252 @@
+# Logfile created on 2024-11-11 00:35:26 +0200 by logger.rb/v1.6.1
+I, [2024-11-11T00:35:26.667484 #63256]  INFO -- : Processed file: example_file
+I, [2024-11-11T00:38:20.511131 #24008]  INFO -- : Processed file: example_file
+I, [2024-11-11T00:38:20.511587 #24008]  INFO -- : Processed file: Ініціалізація товару: Item 1, ціна: 150
+I, [2024-11-11T00:40:53.949916 #39772]  INFO -- : Processed file: example_file
+I, [2024-11-11T00:40:53.950347 #39772]  INFO -- : Processed file: Ініціалізація товару: Item 1, ціна: 150
+I, [2024-11-11T00:42:04.101519 #42280]  INFO -- : Processed file: example_file
+I, [2024-11-11T00:43:26.788014 #21800]  INFO -- : Processed file: example_file
+I, [2024-11-11T00:45:43.222738 #18856]  INFO -- : Processed file: example_file
+I, [2024-11-11T00:50:15.160910 #29904]  INFO -- : Processed file: example_file
+I, [2024-11-11T00:51:56.431634 #40600]  INFO -- : Processed file: example_file
+I, [2024-11-11T00:54:21.113396 #38344]  INFO -- : Processed file: example_file
+I, [2024-11-11T00:56:07.613281 #41324]  INFO -- : Processed file: example_file
+I, [2024-11-11T00:58:48.054628 #580]  INFO -- : Processed file: example_file
+I, [2024-11-11T00:59:46.250650 #9320]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:02:37.769368 #5296]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:04:20.320069 #2104]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:04:43.948653 #48476]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:07:26.353964 #28476]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:07:26.357577 #28476]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:07:26.361109 #28476]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:07:26.364320 #28476]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:07:26.396957 #28476]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:08:48.423179 #60856]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:08:48.426711 #60856]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:08:48.430203 #60856]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:08:48.433798 #60856]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:08:48.463810 #60856]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:11:47.183717 #58928]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:11:47.187168 #58928]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:11:47.190538 #58928]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:11:47.193945 #58928]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:11:47.224015 #58928]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:13:16.477735 #57536]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:13:16.481075 #57536]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:13:16.484588 #57536]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:13:16.487725 #57536]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:13:16.518550 #57536]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:14:03.229560 #26452]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:14:03.232945 #26452]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:14:03.236327 #26452]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:14:03.239849 #26452]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:14:03.270267 #26452]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:15:39.926011 #59528]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:15:39.929372 #59528]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:15:39.932608 #59528]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:15:39.935830 #59528]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:15:39.966664 #59528]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:18:45.244029 #3780]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:18:45.247567 #3780]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:18:45.251395 #3780]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:18:45.255155 #3780]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:18:45.286237 #3780]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:24:08.879328 #35756]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:24:08.882611 #35756]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:24:08.886059 #35756]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:24:08.889135 #35756]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:24:08.920067 #35756]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:24:54.688686 #61000]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:24:54.692128 #61000]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:24:54.695568 #61000]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:24:54.698854 #61000]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:24:54.729834 #61000]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:25:26.390886 #21292]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:25:26.393951 #21292]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:25:26.397522 #21292]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:25:26.401102 #21292]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:25:26.434909 #21292]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:25:26.454065 #21292]  INFO -- : Processed file: Parser initialized with config: {"web_scraping"=>{"start_page"=>"http://books.toscrape.com/", "product_name_selector"=>".product-title", "product_price_selector"=>".product-price__item", "product_description_selector"=>".product-description", "product_image_selector"=>".gallery__link", "start_url"=>"http://books.toscrape.com/catalogue/category/books/philosophy_7", "base_url"=>"http://books.toscrape.com/", "product_link_selector"=>"//a[@class='cs-goods-title']", "name_selector"=>"//h1//span['text']", "price_selector"=>"//p[@class='b-product-cost__price']", "description_selector"=>"//div[@class='b-user-content']//p//span", "image_selector"=>".cs-pictures__img"}}
+E, [2024-11-11T01:25:26.454218 #21292] ERROR -- : Error: URL check failed for : no implicit conversion of nil into String
+E, [2024-11-11T01:25:26.454287 #21292] ERROR -- : Error: Start URL is not reachable: 
+I, [2024-11-11T01:25:41.047236 #58756]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:25:41.050384 #58756]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:25:41.053904 #58756]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:25:41.056885 #58756]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:25:41.087100 #58756]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:25:41.106920 #58756]  INFO -- : Processed file: Parser initialized with config: {"web_scraping"=>{"start_page"=>"http://books.toscrape.com/", "product_name_selector"=>".product-title", "product_price_selector"=>".product-price__item", "product_description_selector"=>".product-description", "product_image_selector"=>".gallery__link", "start_url"=>"http://books.toscrape.com/catalogue/category/books/philosophy_7", "base_url"=>"http://books.toscrape.com/", "product_link_selector"=>"//a[@class='cs-goods-title']", "name_selector"=>"//h1//span['text']", "price_selector"=>"//p[@class='b-product-cost__price']", "description_selector"=>"//div[@class='b-user-content']//p//span", "image_selector"=>".cs-pictures__img"}}
+E, [2024-11-11T01:25:41.107093 #58756] ERROR -- : Error: URL check failed for : no implicit conversion of nil into String
+E, [2024-11-11T01:25:41.107180 #58756] ERROR -- : Error: Start URL is not reachable: 
+I, [2024-11-11T01:25:41.107971 #58756]  INFO -- : Processed file: Database connector initialized with config: {"database_config"=>{"database_type"=>"sqlite", "sqlite_database"=>{"db_file"=>"db/local_database.sqlite", "timeout"=>5000, "pool_size"=>5}}}
+I, [2024-11-11T01:31:40.941831 #40992]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:31:40.945341 #40992]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:31:40.948686 #40992]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:31:40.951792 #40992]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:31:40.981737 #40992]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:31:41.000788 #40992]  INFO -- : Processed file: Parser initialized with config: {"web_scraping"=>{"start_page"=>"http://books.toscrape.com/", "product_name_selector"=>".product-title", "product_price_selector"=>".product-price__item", "product_description_selector"=>".product-description", "product_image_selector"=>".gallery__link", "start_url"=>"http://books.toscrape.com/catalogue/category/books/philosophy_7", "base_url"=>"http://books.toscrape.com/", "product_link_selector"=>"//a[@class='cs-goods-title']", "name_selector"=>"//h1//span['text']", "price_selector"=>"//p[@class='b-product-cost__price']", "description_selector"=>"//div[@class='b-user-content']//p//span", "image_selector"=>".cs-pictures__img"}}
+E, [2024-11-11T01:31:41.000923 #40992] ERROR -- : Error: URL check failed for : no implicit conversion of nil into String
+E, [2024-11-11T01:31:41.001019 #40992] ERROR -- : Error: Start URL is not reachable: 
+I, [2024-11-11T01:31:41.001947 #40992]  INFO -- : Processed file: Database connector initialized with config: {"database_config"=>{"database_type"=>"sqlite", "sqlite_database"=>{"db_file"=>"db/local_database.sqlite", "timeout"=>5000, "pool_size"=>5}}}
+E, [2024-11-11T01:31:41.002018 #40992] ERROR -- : Error: Unsupported database type: 
+I, [2024-11-11T01:35:11.846018 #10216]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:35:11.849165 #10216]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:35:11.852616 #10216]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:35:11.855686 #10216]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:35:11.885576 #10216]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:35:11.903874 #10216]  INFO -- : Processed file: Parser initialized with config: {"web_scraping"=>{"start_page"=>"http://books.toscrape.com/", "product_name_selector"=>".product-title", "product_price_selector"=>".product-price__item", "product_description_selector"=>".product-description", "product_image_selector"=>".gallery__link", "start_url"=>"http://books.toscrape.com/catalogue/category/books/philosophy_7", "base_url"=>"http://books.toscrape.com/", "product_link_selector"=>"//a[@class='cs-goods-title']", "name_selector"=>"//h1//span['text']", "price_selector"=>"//p[@class='b-product-cost__price']", "description_selector"=>"//div[@class='b-user-content']//p//span", "image_selector"=>".cs-pictures__img"}}
+E, [2024-11-11T01:35:11.903996 #10216] ERROR -- : Error: URL check failed for : no implicit conversion of nil into String
+E, [2024-11-11T01:35:11.904049 #10216] ERROR -- : Error: Start URL is not reachable: 
+I, [2024-11-11T01:35:11.904833 #10216]  INFO -- : Processed file: Database connector initialized with config: {"database_type"=>"sqlite", "sqlite_database"=>{"db_file"=>"db/ProjectDB.sqlite", "timeout"=>5000, "pool_size"=>5}}
+E, [2024-11-11T01:35:11.905417 #10216] ERROR -- : Error: Error connecting to SQLite database: unable to open database file
+I, [2024-11-11T01:36:27.160137 #63376]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:36:27.163557 #63376]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:36:27.166996 #63376]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:36:27.169983 #63376]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:36:27.200003 #63376]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:36:27.218976 #63376]  INFO -- : Processed file: Parser initialized with config: {"web_scraping"=>{"start_page"=>"http://books.toscrape.com/", "product_name_selector"=>".product-title", "product_price_selector"=>".product-price__item", "product_description_selector"=>".product-description", "product_image_selector"=>".gallery__link", "start_url"=>"http://books.toscrape.com/catalogue/category/books/philosophy_7", "base_url"=>"http://books.toscrape.com/", "product_link_selector"=>"//a[@class='cs-goods-title']", "name_selector"=>"//h1//span['text']", "price_selector"=>"//p[@class='b-product-cost__price']", "description_selector"=>"//div[@class='b-user-content']//p//span", "image_selector"=>".cs-pictures__img"}}
+E, [2024-11-11T01:36:27.219155 #63376] ERROR -- : Error: URL check failed for : no implicit conversion of nil into String
+E, [2024-11-11T01:36:27.219213 #63376] ERROR -- : Error: Start URL is not reachable: 
+I, [2024-11-11T01:36:27.220068 #63376]  INFO -- : Processed file: Database connector initialized with config: {"database_type"=>"sqlite", "sqlite_database"=>{"db_file"=>"db/ProjectDB.sqlite", "timeout"=>5000, "pool_size"=>5}}
+E, [2024-11-11T01:36:27.220209 #63376] ERROR -- : Error: Database file does not exist: db/ProjectDB.sqlite
+I, [2024-11-11T01:37:25.765752 #52148]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:37:25.769171 #52148]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:37:25.773324 #52148]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:37:25.776991 #52148]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:37:25.809439 #52148]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:37:25.828148 #52148]  INFO -- : Processed file: Parser initialized with config: {"web_scraping"=>{"start_page"=>"http://books.toscrape.com/", "product_name_selector"=>".product-title", "product_price_selector"=>".product-price__item", "product_description_selector"=>".product-description", "product_image_selector"=>".gallery__link", "start_url"=>"http://books.toscrape.com/catalogue/category/books/philosophy_7", "base_url"=>"http://books.toscrape.com/", "product_link_selector"=>"//a[@class='cs-goods-title']", "name_selector"=>"//h1//span['text']", "price_selector"=>"//p[@class='b-product-cost__price']", "description_selector"=>"//div[@class='b-user-content']//p//span", "image_selector"=>".cs-pictures__img"}}
+E, [2024-11-11T01:37:25.828272 #52148] ERROR -- : Error: URL check failed for : no implicit conversion of nil into String
+E, [2024-11-11T01:37:25.828324 #52148] ERROR -- : Error: Start URL is not reachable: 
+I, [2024-11-11T01:37:25.829181 #52148]  INFO -- : Processed file: Database connector initialized with config: {"database_type"=>"sqlite", "sqlite_database"=>{"db_file"=>"db/ProjectDB.sqlite", "timeout"=>5000, "pool_size"=>5}}
+I, [2024-11-11T01:37:25.829653 #52148]  INFO -- : Processed file: Connected to SQLite database at db/ProjectDB.sqlite
+I, [2024-11-11T01:38:10.136474 #11840]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:38:10.139908 #11840]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:38:10.143246 #11840]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:38:10.146479 #11840]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:38:10.177016 #11840]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:38:10.196722 #11840]  INFO -- : Processed file: Parser initialized with config: {"web_scraping"=>{"start_page"=>"http://books.toscrape.com/", "product_name_selector"=>".product-title", "product_price_selector"=>".product-price__item", "product_description_selector"=>".product-description", "product_image_selector"=>".gallery__link", "start_url"=>"http://books.toscrape.com/catalogue/category/books/philosophy_7", "base_url"=>"http://books.toscrape.com/", "product_link_selector"=>"//a[@class='cs-goods-title']", "name_selector"=>"//h1//span['text']", "price_selector"=>"//p[@class='b-product-cost__price']", "description_selector"=>"//div[@class='b-user-content']//p//span", "image_selector"=>".cs-pictures__img"}}
+E, [2024-11-11T01:38:10.196869 #11840] ERROR -- : Error: URL check failed for : no implicit conversion of nil into String
+E, [2024-11-11T01:38:10.196938 #11840] ERROR -- : Error: Start URL is not reachable: 
+I, [2024-11-11T01:38:10.197825 #11840]  INFO -- : Processed file: Database connector initialized with config: {"database_type"=>"sqlite", "sqlite_database"=>{"db_file"=>"db/ProjectDB.sqlite", "timeout"=>5000, "pool_size"=>5}}
+I, [2024-11-11T01:38:10.198362 #11840]  INFO -- : Processed file: Connected to SQLite database at db/ProjectDB.sqlite
+I, [2024-11-11T01:38:10.198466 #11840]  INFO -- : Processed file: SQLite connection closed.
+I, [2024-11-11T01:38:10.199104 #11840]  INFO -- : Processed file: Configuration loaded successfully from ./config/yaml/database_config.yaml
+I, [2024-11-11T01:41:42.844111 #53664]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:41:42.847514 #53664]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:41:42.850866 #53664]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:41:42.854129 #53664]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:41:42.884652 #53664]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:41:42.903365 #53664]  INFO -- : Processed file: Parser initialized with config: {"web_scraping"=>{"start_page"=>"http://books.toscrape.com/", "product_name_selector"=>".product-title", "product_price_selector"=>".product-price__item", "product_description_selector"=>".product-description", "product_image_selector"=>".gallery__link", "start_url"=>"http://books.toscrape.com/catalogue/category/books/philosophy_7", "base_url"=>"http://books.toscrape.com/", "product_link_selector"=>"//a[@class='cs-goods-title']", "name_selector"=>"//h1//span['text']", "price_selector"=>"//p[@class='b-product-cost__price']", "description_selector"=>"//div[@class='b-user-content']//p//span", "image_selector"=>".cs-pictures__img"}}
+E, [2024-11-11T01:41:42.903520 #53664] ERROR -- : Error: URL check failed for : no implicit conversion of nil into String
+E, [2024-11-11T01:41:42.903594 #53664] ERROR -- : Error: Start URL is not reachable: 
+I, [2024-11-11T01:41:42.904662 #53664]  INFO -- : Processed file: Database connector initialized with config: {"database_type"=>"sqlite", "sqlite_database"=>{"db_file"=>"db/ProjectDB.sqlite", "timeout"=>5000, "pool_size"=>5}}
+I, [2024-11-11T01:41:42.905228 #53664]  INFO -- : Processed file: Connected to SQLite database at db/ProjectDB.sqlite
+I, [2024-11-11T01:41:42.905346 #53664]  INFO -- : Processed file: SQLite connection closed.
+I, [2024-11-11T01:41:42.906044 #53664]  INFO -- : Processed file: Configuration loaded successfully from ./config/yaml/database_config.yaml
+I, [2024-11-11T01:47:07.689916 #52748]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:47:07.693321 #52748]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:47:07.697116 #52748]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:47:07.700578 #52748]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:47:07.731755 #52748]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:47:07.750558 #52748]  INFO -- : Processed file: Parser initialized with config: {"web_scraping"=>{"start_page"=>"http://books.toscrape.com/", "product_name_selector"=>".product-title", "product_price_selector"=>".product-price__item", "product_description_selector"=>".product-description", "product_image_selector"=>".gallery__link", "start_url"=>"http://books.toscrape.com/catalogue/category/books/philosophy_7", "base_url"=>"http://books.toscrape.com/", "product_link_selector"=>"//a[@class='cs-goods-title']", "name_selector"=>"//h1//span['text']", "price_selector"=>"//p[@class='b-product-cost__price']", "description_selector"=>"//div[@class='b-user-content']//p//span", "image_selector"=>".cs-pictures__img"}}
+E, [2024-11-11T01:47:07.750681 #52748] ERROR -- : Error: URL check failed for : no implicit conversion of nil into String
+E, [2024-11-11T01:47:07.750736 #52748] ERROR -- : Error: Start URL is not reachable: 
+I, [2024-11-11T01:47:07.751629 #52748]  INFO -- : Processed file: Database connector initialized with config: {"database_type"=>"sqlite", "sqlite_database"=>{"db_file"=>"db/ProjectDB.sqlite", "timeout"=>5000, "pool_size"=>5}}
+I, [2024-11-11T01:47:07.752084 #52748]  INFO -- : Processed file: Connected to SQLite database at db/ProjectDB.sqlite
+I, [2024-11-11T01:47:07.752238 #52748]  INFO -- : Processed file: SQLite connection closed.
+I, [2024-11-11T01:47:07.752902 #52748]  INFO -- : Processed file: Configuration loaded successfully from ./config/yaml/database_config.yaml
+I, [2024-11-11T01:49:42.017619 #44244]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:49:42.021123 #44244]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:49:42.024481 #44244]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:49:42.090342 #44244]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:49:42.094901 #44244]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T01:51:54.586592 #9880]  INFO -- : Processed file: example_file
+I, [2024-11-11T01:51:54.589859 #9880]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T01:51:54.593048 #9880]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T01:51:54.661344 #9880]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T01:51:54.666347 #9880]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T02:00:18.296828 #50928]  INFO -- : Processed file: example_file
+I, [2024-11-11T02:00:18.300105 #50928]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T02:00:18.303627 #50928]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T02:00:18.369820 #50928]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T02:00:18.374449 #50928]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T02:01:19.753187 #61228]  INFO -- : Processed file: example_file
+I, [2024-11-11T02:01:19.756634 #61228]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T02:01:19.760571 #61228]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T02:01:19.825129 #61228]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T02:01:19.830128 #61228]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T02:08:34.329641 #40232]  INFO -- : Processed file: example_file
+I, [2024-11-11T02:08:34.333018 #40232]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T02:08:34.336406 #40232]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T02:08:34.401574 #40232]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T02:08:34.406537 #40232]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T02:08:54.384560 #25860]  INFO -- : Processed file: example_file
+I, [2024-11-11T02:08:54.387979 #25860]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T02:08:54.391301 #25860]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T02:08:54.455963 #25860]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T02:08:54.460515 #25860]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T02:13:02.386846 #38648]  INFO -- : Processed file: example_file
+I, [2024-11-11T02:13:02.390607 #38648]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T02:13:02.394096 #38648]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T02:13:02.459660 #38648]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T02:13:02.464181 #38648]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T02:15:09.535607 #27540]  INFO -- : Processed file: example_file
+I, [2024-11-11T02:15:09.539154 #27540]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T02:15:09.542387 #27540]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T02:15:09.608945 #27540]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T02:15:09.613820 #27540]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T02:17:22.332525 #55072]  INFO -- : Processed file: example_file
+I, [2024-11-11T02:17:22.336019 #55072]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T02:17:22.339247 #55072]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T02:17:22.388585 #55072]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T02:17:22.393727 #55072]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T02:18:58.160684 #50140]  INFO -- : Processed file: example_file
+I, [2024-11-11T02:18:58.163849 #50140]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T02:18:58.167160 #50140]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T02:18:58.170624 #50140]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T02:18:58.202823 #50140]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T02:18:59.406106 #50140]  INFO -- : Processed file: Database connector initialized with config: {"database_type"=>"sqlite", "sqlite_database"=>{"db_file"=>"db/ProjectDB.sqlite", "timeout"=>5000, "pool_size"=>5}}
+I, [2024-11-11T02:18:59.406635 #50140]  INFO -- : Processed file: Connected to SQLite database at db/ProjectDB.sqlite
+I, [2024-11-11T02:18:59.406746 #50140]  INFO -- : Processed file: SQLite connection closed.
+I, [2024-11-11T02:18:59.407385 #50140]  INFO -- : Processed file: Configuration loaded successfully from ./config/yaml/database_config.yaml
+I, [2024-11-11T02:25:37.151673 #61360]  INFO -- : Processed file: example_file
+I, [2024-11-11T02:25:37.155050 #61360]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T02:25:37.158451 #61360]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T02:25:37.161387 #61360]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T02:25:37.191665 #61360]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T02:25:38.270916 #61360]  INFO -- : Processed file: Database connector initialized with config: {"database_type"=>"sqlite", "sqlite_database"=>{"db_file"=>"db/ProjectDB.sqlite", "timeout"=>5000, "pool_size"=>5}}
+I, [2024-11-11T02:25:38.271405 #61360]  INFO -- : Processed file: Connected to SQLite database at db/ProjectDB.sqlite
+I, [2024-11-11T02:25:38.271523 #61360]  INFO -- : Processed file: SQLite connection closed.
+I, [2024-11-11T02:25:38.272159 #61360]  INFO -- : Processed file: Configuration loaded successfully from ./config/yaml/database_config.yaml
+I, [2024-11-11T02:27:37.957083 #56588]  INFO -- : Processed file: example_file
+I, [2024-11-11T02:27:37.960415 #56588]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T02:27:37.963906 #56588]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T02:27:37.967139 #56588]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T02:27:37.997897 #56588]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T02:27:39.074337 #56588]  INFO -- : Processed file: Database connector initialized with config: {"database_type"=>"sqlite", "sqlite_database"=>{"db_file"=>"db/ProjectDB.sqlite", "timeout"=>5000, "pool_size"=>5}}
+I, [2024-11-11T02:27:39.074839 #56588]  INFO -- : Processed file: Connected to SQLite database at db/ProjectDB.sqlite
+I, [2024-11-11T02:27:39.074940 #56588]  INFO -- : Processed file: SQLite connection closed.
+I, [2024-11-11T02:27:39.075542 #56588]  INFO -- : Processed file: Configuration loaded successfully from ./config/yaml/database_config.yaml
+I, [2024-11-11T02:32:37.971637 #1564]  INFO -- : Processed file: example_file
+I, [2024-11-11T02:32:37.975045 #1564]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T02:32:37.978501 #1564]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T02:32:37.981775 #1564]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T02:32:38.013080 #1564]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T02:32:39.105633 #1564]  INFO -- : Processed file: Database connector initialized with config: {"database_type"=>"sqlite", "sqlite_database"=>{"db_file"=>"db/ProjectDB.sqlite", "timeout"=>5000, "pool_size"=>5}}
+I, [2024-11-11T02:32:39.106098 #1564]  INFO -- : Processed file: Connected to SQLite database at db/ProjectDB.sqlite
+I, [2024-11-11T02:32:39.106193 #1564]  INFO -- : Processed file: SQLite connection closed.
+I, [2024-11-11T02:32:39.106822 #1564]  INFO -- : Processed file: Configuration loaded successfully from ./config/yaml/database_config.yaml
+I, [2024-11-11T02:32:39.107098 #1564]  INFO -- : Processed file: Logging initialized.
+I, [2024-11-11T02:32:39.107169 #1564]  INFO -- : Processed file: Program execution started.
+E, [2024-11-11T02:32:39.107314 #1564] ERROR -- : Error: Error during program execution: No such file or directory @ rb_sysopen - config.yml
+I, [2024-11-11T02:32:39.109926 #1564]  INFO -- : Processed file: example_file
+I, [2024-11-11T02:32:39.113248 #1564]  INFO -- : Processed file: cart_items.txt
+I, [2024-11-11T02:32:39.116352 #1564]  INFO -- : Processed file: cart_items.json
+I, [2024-11-11T02:32:39.118049 #1564]  INFO -- : Processed file: cart_items.csv
+I, [2024-11-11T02:32:39.149612 #1564]  INFO -- : Processed file: cart_items.yml
+I, [2024-11-11T02:32:40.160567 #1564]  INFO -- : Processed file: Database connector initialized with config: {"database_type"=>"sqlite", "sqlite_database"=>{"db_file"=>"db/ProjectDB.sqlite", "timeout"=>5000, "pool_size"=>5}}
+I, [2024-11-11T02:32:40.160957 #1564]  INFO -- : Processed file: Connected to SQLite database at db/ProjectDB.sqlite
+I, [2024-11-11T02:32:40.161044 #1564]  INFO -- : Processed file: SQLite connection closed.
+I, [2024-11-11T02:32:40.161678 #1564]  INFO -- : Processed file: Configuration loaded successfully from ./config/yaml/database_config.yaml
+I, [2024-11-11T02:32:40.161909 #1564]  INFO -- : Processed file: Logging initialized.
+I, [2024-11-11T02:32:40.161969 #1564]  INFO -- : Processed file: Program execution started.
+E, [2024-11-11T02:32:40.162085 #1564] ERROR -- : Error: Error during program execution: No such file or directory @ rb_sysopen - config.yml
